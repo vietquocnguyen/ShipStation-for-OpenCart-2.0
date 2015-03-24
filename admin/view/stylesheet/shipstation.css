@@ -1,0 +1,46 @@
+/* ShipStation stylesheet */
+.shipstation {
+	padding: 10px;
+	border-left: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+}
+.shipstation .heading {
+	margin-top: 0px;
+	margin-bottom: 15px;
+	color: #003A88;
+	font-weight: bold;
+	font-size: 18px;
+	border-bottom: 1px solid #003A88;
+}
+.shipstation th {
+	background-color: #EFEFEF;
+	padding: 0px 5px;
+	color: #222222;
+	font-weight: bold;
+}
+.shipstation td {
+	padding: 0px 5px;
+	color: #222222;
+}
+.shipstation tbody a {
+	text-decoration: underline;
+}
+.shipstation tbody a.button {
+	text-decoration: none;
+}
+.shipstation .left {
+	vertical-align: middle;
+	text-align: left;
+	padding: 7px;
+}
+.shipstation .right {
+	vertical-align: middle;
+	text-align: right;
+	padding: 7px;
+}
+.shipstation .center {
+	vertical-align: middle;
+	text-align: center;
+	padding: 7px;
+}
